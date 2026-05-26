@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsdalculate",
+        "uuid": 7024087,
+        "checksum": "zle76n"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
